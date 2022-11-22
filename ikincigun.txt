@@ -3,3 +3,4 @@ Git Githup ikinci gun ikinci deneme
 Git Githup ikinci gun ucuncu deneme
 Git Githup ikinci gun FERHAT BRANCH deneme
 Git Githup ikinci gun MASTER BRANCH deneme
+Git Githup ikinci gun FERHAT BRANCH ikinci  deneme
